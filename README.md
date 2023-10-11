@@ -1,8 +1,7 @@
 # Autonomous-Driving-Car-simulation-using-Pytorch🚘🚘🚗🚗
 
 ## 💥Contributors-
-   * Shreyas.P.J , github: shreyaspj20
-
+   * V Sri Krishna Deva Rayudu , github: potasticg
 # 💥ABSTRACT :
 
    A self-driving car, also known as an autonomous vehicle (AV or auto), driverless car, or robo-car is a vehicle that is capable of sensing its environment and moving safely with little or no human input. In this project, we will be using camera sensors(center,left and right) implanted on the car to make predictions on the steering angle.This steering angle will be used to control the car. We will start of with building a model with the architecture which is defined in the NVIDIA reasearch paper https://arxiv.org/pdf/1604.07316v1.pdf. This model was trained on 22 epochs. The model could perform better if it is trained on a lot more training images. Augumentation of images could also help reduce overfitting of the model.
